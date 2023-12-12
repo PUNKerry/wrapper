@@ -53,13 +53,14 @@
 4.1. Имя файл исходного облака точек задается параметром -i <INPUT_FILE> или  --input <INPUT_FILE>
 4.2. Имя файл файла описания сетки -o <OUTPUT_FILE> или  --output <OUTPUT_FILE>
 5. Файлы тестовых данных доступны по ссылкам
-5.1. Облако точек 1
+
+Облако точек 1
 https://disk.yandex.ru/d/f5pkmz1MdV8UpA
 
-5.2. Облако точек 2
+Облако точек 2
 https://disk.yandex.ru/d/R7dFZJqd5ZCFDA
 
-5.3. Облако точек 3
+Облако точек 3
 https://disk.yandex.ru/d/wdDSch9fQ2gX1Q
 
 
